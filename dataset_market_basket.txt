@@ -1,0 +1,19 @@
+whole milk,pastry,salty snack
+sausage,whole milk,semi-finished bread,yogurt
+soda,pickled vegetables
+canned beer,misc. beverages
+sausage,hygiene articles
+sausage,whole milk,rolls/buns
+whole milk,soda
+frankfurter,soda,whipped/sour cream
+frankfurter,curd
+beef,white bread
+butter,whole milk
+frozen vegetables,other vegetables
+tropical fruit,sugar
+butter milk,specialty chocolate
+frozen meals,dental care
+rolls/buns,rolls/buns
+root vegetables,detergent
+sausage,rolls/buns
+dish cleaner,cling film/bags
